@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- **Dedicated**
+- **Hard Working**
+- **Sticks to Deadlines**
+- **Interpersonal Skills**
+- Continuing Education in *Html, CSS, Java, Version Control*
