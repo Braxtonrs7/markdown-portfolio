@@ -1,0 +1,5 @@
+- **Dedicated**
+- **Hard Working**
+- **Sticks to Deadlines**
+- **Interpersonal Skills**
+- Continuing Education in *Html, CSS, Java, Version Control*
